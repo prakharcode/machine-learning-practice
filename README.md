@@ -1,2 +1,2 @@
 # machine-learning-practice
-learning the machine learning
+learning machine learning and practicing 
